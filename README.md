@@ -101,7 +101,10 @@ Bu proje eğitim amaçlı geliştirilmiştir. Kaynak gösterilerek kullanılabil
 👨‍💻 İletişim
 
 Geliştiriciler: 
-[Murat  Aydoğan] LinkedIn: [https://www.linkedin.com/in/murat-aydo%C4%9Fan-51587b298/] 
-[Kerem Yıldız] LinkedIn: [https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1z-ba4bb1362/] GitHub: [https://github.com/KLU1230505031]
-[Ömer Abalı] LinkedIn: [https://www.linkedin.com/in/omerabali/] GitHub: [https://github.com/omerabali]
+
+[**Murat  Aydoğan**](https://github.com/murataydogan) LinkedIn: [https://www.linkedin.com/in/murat-aydo%C4%9Fan-51587b298/] 
+
+[**Kerem Yıldız**](https://github.com/KLU1230505031) LinkedIn: [https://www.linkedin.com/in/kerem-y%C4%B1ld%C4%B1z-ba4bb1362/] 
+
+[**Ömer Abalı**](https://github.com/omerabali) LinkedIn: [https://www.linkedin.com/in/omerabali/] 
                 
